@@ -1,16 +1,81 @@
-## Hi there 👋
+## Artem / Артём
 
-<!--
-**Zamotashka/Zamotashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer and automation engineer.
+Working with Telegram bots, remote server infrastructure, and web development.
+Open to remote work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+
+**What I do:**
+- Telegram bots — payments, webhooks, multi-step flows
+- Remote server administration — VPS setup, Docker, reverse proxies (Nginx/Caddy), SSL
+- VPN infrastructure — Xray nodes, Cloudflare CDN, multi-region routing
+- Web development — landing pages, business sites, contact forms with backend
+- Automation — Make.com pipelines, webhook integrations, scheduled tasks
+- Tooling — OpenWrt, Wine/Proton, Frida, log-based debugging
+
+---
+
+**Projects**
+
+| Project | Description | Stack |
+|---|---|---|
+| [Nodeless VPN](@NodelessVPN_bot) | Pet project — VPN service with Telegram bot, SBP + Telegram Stars payments, multi-node setup across FI/PL/BG/US | Docker, Xray, Remnawave, Caddy, Cloudflare |
+| [Dubrava39](https://dubrava39.ru) | Freelance — business site for a woodworking company: product gallery, contact form with rate limiting + honeypot, Telegram notifications via Make.com | HTML/CSS/JS, PHP, Make.com |
+| [AI Code Reviewer](https://github.com/Zamotashka/ai-code-reviewer) | Desktop app for automated code review via LLM — supports C#, JS, TS, Python, Java; color-coded output, review history | C#, WPF, Groq API |
+| [DRTC RU Fix](https://github.com/Zamotashka/drtc-ru-fix) | Patch for a fan-made game localization — diagnosed a save-path bug through log analysis and Frida script inspection; also restored two lost developer bugfixes | JavaScript, Frida |
+
+---
+
+**Now**
+
+- Administering Nodeless VPN
+- Learning Spanish and English
+- Looking for remote backend / automation work
+
+---
+---
+
+## RU
+
+Занимаюсь автоматизацией, Telegram-ботами, администрированием серверов и веб-разработкой.
+Открыт к удалённой работе.
+
+---
+
+**Что умею:**
+- Telegram-боты — оплата, вебхуки, многошаговые сценарии
+- Администрирование удалённых серверов — VPS, Docker, обратные прокси (Nginx/Caddy), SSL
+- VPN-инфраструктура — Xray-ноды, Cloudflare CDN
+- Веб-разработка — лендинги, сайты для бизнеса, формы с бэкендом
+- Автоматизация — Make.com, вебхук-интеграции
+- Утилиты и отладка — OpenWrt, Wine/Proton, Frida, анализ логов
+
+---
+
+**Проекты**
+
+| Проект | Описание |
+|---|---|
+| [Nodeless VPN](@NodelessVPN_bot) | Пет-проект — VPN-сервис с Telegram-ботом, приёмом оплаты (СБП + Telegram Stars), мультинодовой инфраструктурой |
+| [Dubrava39](https://dubrava39.ru) | Фриланс — сайт для столярной мастерской: галерея работ, форма заявки с rate limiting и honeypot, уведомления в Telegram через Make.com |
+| [AI Code Reviewer](https://github.com/Zamotashka/ai-code-reviewer) | Десктопное приложение для автоматического code review через LLM — поддержка C#, JS, TS, Python, Java; цветной вывод, история проверок |
+| [DRTC RU Fix](https://github.com/Zamotashka/drtc-ru-fix) | Патч фанатского русификатора игры — нашёл баг с путём сохранений через анализ логов и Frida-скрипта; восстановил два потерянных багфикса разработчиков |
+
+---
+
+**Сейчас**
+
+- Администрирую Nodeless VPN
+- Учу испанский и английский
+- Ищу удалённую работу
