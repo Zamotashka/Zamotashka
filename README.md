@@ -23,6 +23,7 @@ Open to remote work.
 - Automation — Make.com pipelines, webhook integrations, scheduled tasks
 - Tooling — OpenWrt, Wine/Proton, Frida, log-based debugging
 - AI-assisted development — effectively using LLMs (Claude, Claude Code) as part of the workflow; certified in AI automation and Claude Code
+- Local AI stacks — set up SkyrimNet + XTTS + xVASynth for real-time AI NPC dialogue in Skyrim, integrated with DeepSeek via OpenRouter API
 
 **Certificates:** AI & Workflow Automation — UNC Córdoba, 2026 · [Claude Code in Action — Anthropic, 2026](https://verify.skilljar.com/c/3pq32cuizceq)
 
@@ -63,6 +64,7 @@ Open to remote work.
 - Автоматизация — Make.com, вебхук-интеграции, планировщики задач
 - Утилиты и отладка — OpenWrt, Wine/Proton, Frida, анализ логов
 - AI-assisted разработка — эффективно использую LLM (Claude, Claude Code) в рабочем процессе; есть сертификаты по автоматизации с ИИ и Claude Code
+- Локальные AI-стеки — настроил SkyrimNet + XTTS + xVASynth для диалогов с NPC в реальном времени в Skyrim, интеграция с DeepSeek через OpenRouter API
 
 **Сертификаты:** ИИ и автоматизация рабочих процессов — UNC Córdoba, 2026 · [Claude Code in Action — Anthropic, 2026](https://verify.skilljar.com/c/3pq32cuizceq)
 
