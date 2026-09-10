@@ -25,7 +25,7 @@ Open to remote work.
 - AI-assisted development — effectively using LLMs (Claude, Claude Code) as part of the workflow; certified in AI automation and Claude Code
 - Local AI stacks — set up SkyrimNet + XTTS + xVASynth for real-time AI NPC dialogue in Skyrim, integrated with DeepSeek via OpenRouter API
 
-**Certificates:** AI & Workflow Automation — UNC Córdoba, 2026 · [Claude Code in Action — Anthropic, 2026]
+**Certificates:** AI & Workflow Automation — UNC Córdoba, 2026 · Claude Code in Action — Anthropic, 2026
 
 ---
 
@@ -66,7 +66,7 @@ Open to remote work.
 - AI-assisted разработка — эффективно использую LLM (Claude, Claude Code) в рабочем процессе; есть сертификаты по автоматизации с ИИ и Claude Code
 - Локальные AI-стеки — настроил SkyrimNet + XTTS + xVASynth для диалогов с NPC в реальном времени в Skyrim, интеграция с DeepSeek через OpenRouter API
 
-**Сертификаты:** ИИ и автоматизация рабочих процессов — UNC Córdoba, 2026 · [Claude Code in Action — Anthropic, 2026]
+**Сертификаты:** ИИ и автоматизация рабочих процессов — UNC Córdoba, 2026 · Claude Code in Action — Anthropic, 2026
 
 ---
 
