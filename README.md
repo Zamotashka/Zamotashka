@@ -33,7 +33,7 @@ Open to remote work.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nodeless VPN] | Pet project — VPN service with Telegram bot, SBP + Telegram Stars payments, multi-node setup across FI/PL. Built with Claude. | Docker, Xray, Remnawave, Caddy, Cloudflare |
+| [Nodeless VPN] (https://t.me/NodelessVPN_bot) | Pet project — VPN service with Telegram bot, SBP + Telegram Stars payments, multi-node setup across FI/PL. Built with Claude. | Docker, Xray, Remnawave, Caddy, Cloudflare |
 | [Dubrava39](https://dubrava39.ru) | Freelance — business site for a woodworking company: product gallery, contact form with rate limiting + honeypot, Telegram notifications via Make.com. Built with Claude. | HTML/CSS/JS, PHP, Make.com |
 | [AI Code Reviewer](https://github.com/Zamotashka/ai-code-reviewer) | Desktop app for automated code review via LLM — supports C#, JS, TS, Python, Java; color-coded output, review history. Built with Claude. | C#, WPF, Groq API |
 | [DRTC RU Fix](https://github.com/Zamotashka/drtc-ru-fix) | Patch for a fan-made game localization — diagnosed a save-path bug through log analysis and Frida script inspection; also restored two lost developer bugfixes. Built with Claude. | JavaScript, Frida |
@@ -74,7 +74,7 @@ Open to remote work.
 
 | Проект | Описание |
 |---|---|
-| [Nodeless VPN] | Пет-проект — VPN-сервис с Telegram-ботом, приёмом оплаты (СБП + Telegram Stars), мультинодовой инфраструктурой на FI/PL. Разработан с использованием Claude. |
+| [Nodeless VPN] (https://t.me/NodelessVPN_bot) | Пет-проект — VPN-сервис с Telegram-ботом, приёмом оплаты (СБП + Telegram Stars), мультинодовой инфраструктурой на FI/PL. Разработан с использованием Claude. |
 | [Dubrava39](https://dubrava39.ru) | Фриланс — сайт для столярной мастерской: галерея работ, форма заявки с rate limiting и honeypot, уведомления в Telegram через Make.com. Разработан с использованием Claude. |
 | [AI Code Reviewer](https://github.com/Zamotashka/ai-code-reviewer) | Десктопное приложение для автоматического code review через LLM. Разработан с использованием Claude. |
 | [DRTC RU Fix](https://github.com/Zamotashka/drtc-ru-fix) | Патч фанатского русификатора игры — нашёл баг через анализ логов и Frida-скрипта; восстановил два потерянных багфикса. Разработан с использованием Claude. |
