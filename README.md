@@ -80,7 +80,7 @@ Open to remote work.
 | Проект | Описание | Стек | AI |
 |---|---|---|---|
 | [Nodeless VPN](https://t.me/NodelessVPN_bot) | Пет-проект — VPN-сервис с Telegram-ботом, приёмом оплаты (СБП + Telegram Stars), мультинодовой инфраструктурой FI/PL/BG/US. | Docker, Xray, Remnawave, Caddy, Cloudflare | Gemini (Antigravity) + Claude |
-| [YPtun](https://github.com/yanisplugg/olcvpn-client) | Командный проект (СПбПУ, группа 2091) — open-source VPN-клиент для обхода блокировок: Xray, sing-box, AmneziaWG, VK-TURN, DNSTT, olcRTC. Моя роль: iOS-порт, Xcode CI/CD, деплой в TestFlight, автоматизация подписи Apple. Автор проекта: [@yanisplugg](https://github.com/yanisplugg). Цель — выпуск на все платформы и монетизация. [→ TestFlight](https://testflight.apple.com/join/XqRGaz8p) | Swift, Kotlin Multiplatform, Go, GitHub Actions | Gemini (Antigravity) |
+| [YPtun](https://github.com/yanisplugg/olcvpn-client) | Командный проект — open-source VPN-клиент для обхода блокировок: Xray, sing-box, AmneziaWG, VK-TURN, DNSTT, olcRTC. Моя роль: iOS-порт, Xcode CI/CD, деплой в TestFlight, автоматизация подписи Apple. Автор проекта: [@yanisplugg](https://github.com/yanisplugg). Цель — выпуск на все платформы и монетизация. [→ TestFlight](https://testflight.apple.com/join/XqRGaz8p) | Swift, Kotlin Multiplatform, Go, GitHub Actions | Gemini (Antigravity) |
 | [Dubrava39](https://dubrava39.ru) | Фриланс — сайт для столярной мастерской: галерея, форма с rate limiting и honeypot, уведомления в Telegram через Make.com. | HTML/CSS/JS, PHP, Make.com | Claude |
 | [DRTC RU Fix](https://github.com/Zamotashka/drtc-ru-fix) | Патч фанатского русификатора — нашёл баг через анализ логов и Frida-скрипта; восстановил два потерянных багфикса разработчика. | JavaScript, Frida | Claude |
 
